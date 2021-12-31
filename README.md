@@ -3,7 +3,7 @@ Usa os microdados do CENSO ESCOLAR divulgados pleo INEP para recuperar informaç
 
 Os dados extraídos são:
 
-A) seu funcionamento ou não como anexos, ver campo CO_ESCOLA_SEDE_VINCULADA;
+A) seu funcionam ou não como anexos, ver campo CO_ESCOLA_SEDE_VINCULADA;
 
 B) tipo de dependência administrativa, ver campo TP_DEPENDENCIA;
 
